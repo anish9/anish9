@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Domain specific image synthesis
 - 📫 How to reach me: josh.anish1@gmail.com
+- 🌱 I’m currently learning ultimate science 😄
