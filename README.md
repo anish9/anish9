@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=anish9&show_icons=true&title_color=fff&icon_color=02e080&text_color=9f9f9f&bg_color=151515)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=anish9&show_icons=true&title_color=fff&icon_color=02e080&text_color=eb0239&bg_color=151515)
 
 </div>
