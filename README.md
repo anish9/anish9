@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=anish9&show_icons=true&title_color=fff&icon_color=eb0239&text_color=02e080&bg_color=000621)
 
 </div>
+
+- 📫 How to reach me: josh.anish1@gmail.com
