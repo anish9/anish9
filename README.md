@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on: Domain specific image synthesis
-- 🌱 I’m currently learning ultimate science 😄
+- 🌱 I’m currently learning science 😄
 - 📫 How to reach me: josh.anish1@gmail.com
 
