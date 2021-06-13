@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on Image Synthesis and Tabular Data Modelling.
-- 🌱 I’m currently learning Data distributions and curve fitting applications.
+- 🔭 I’m currently working on Computer vision/NLP/Tabular problems.
+- 🌱 I’m currently learning Stats and Spaces.
 - 👯 I’m looking to collaborate on real world AI based web apps.
 - 🤔 I’m looking for help with Learning a framework end-to-end.
 - 💬 Ask me about Datasets, Models and Blackholes.
