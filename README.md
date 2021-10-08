@@ -1,4 +1,4 @@
 
--   :monocle_face: Interested in everything **Machine intelligence**
+-   :monocle_face: Interested in **Machine Intelligence**
 -   :heart: Open Source Software
 -   :penguin: **Linux** 
