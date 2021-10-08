@@ -1,3 +1,3 @@
 
-- 🔭 I’m currently working learning !
-
+- 🔭 I’m currently working machine intelligence !
+- 
