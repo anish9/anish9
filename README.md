@@ -1,4 +1,4 @@
 
 -   :crayon: Interested in **Machine Intelligence**
 -   :heart: Open Source Software
--   :mailbox: reach me **josh.anish1@gmail.com**
+-   :bookmark: reach me **josh.anish1@gmail.com**
