@@ -2,4 +2,4 @@
 -   📖: Interested in **ML**
 -   :heart: Open Source
 -   :crayon: reach me **josh.anish1@gmail.com**
--   📓 Learning = (DUMB*0.8)+(LEARN*0.2)
+-   We can always learn and never overestimate **PROOF : (DUMB x 0.51)+(LEARN x 0.49)*
