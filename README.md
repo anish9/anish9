@@ -1,4 +1,4 @@
 
--   📖: Working in  **AI/ML, Software Eng**
--   :crayon: reach me **josh.anish1@gmail.com**
+-   📖: Working In    : **AI/ML, Software Eng**
+-   :crayon: Reach Me : **josh.anish1@gmail.com**
 -   👱‍♂️: Unlearning 
